@@ -1,4 +1,4 @@
-age,coverage amount,model,policygenius
+age,coverage_amount,model,policygenius
 30,"100,000",99,960
 30,"250,000",242,2268
 30,"500,000",485,4488
